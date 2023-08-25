@@ -1,10 +1,10 @@
 ### Hi there, I'm siudowski 👋
 
-I'm just a hobbyist, focued almost exclusively on Unity and C#.
+### I'm just a hobbyist, focued almost exclusively on Unity and C#.
 
-I've been playing around with Unity since early 2017 and for past years my experience was limited to small demo games, learning projects and prototypes, of limited difficulty.
-On top of that, I am also capable of 3d modelling in blender, a skill I often needed in my small scope projects.
-For some time I've been a part of Cities:Skylines content creator community, where I could polish my skills as a 3d artist. 
+### I've been playing around with Unity since early 2017 and for past years my experience was limited to small demo games, learning projects and prototypes, of limited difficulty.
+### On top of that, I am also capable of 3d modelling in blender, a skill I often needed in my small scope projects.
+### For some time I've been a part of Cities:Skylines content creator community, where I could polish my skills as a 3d artist. 
 
 <!--
 **siudowski/siudowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
