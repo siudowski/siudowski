@@ -1,4 +1,4 @@
-### Hi there, I'm siudowski 👋
+<!---### Hi there, I'm siudowski 👋
 
 ### I'm just a hobbyist, focused almost exclusively on Unity and C#.
 
@@ -6,7 +6,6 @@
 ### On top of that, I am also capable of 3d modelling in blender, a skill I often need in my small scope projects.
 ### For some time I've been a part of Cities:Skylines content creator community, where I polished my skills as a 3d artist.
 
-<!--
 **siudowski/siudowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
